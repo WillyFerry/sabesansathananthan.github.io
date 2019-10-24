@@ -3260,3 +3260,9 @@ h6 {
     top: 0;
     left: 0;
   }
+@media only screen and (max-width: 600px) {
+  h1.name{
+    font-size:40px;
+    overflow:hidden;
+  }
+}
